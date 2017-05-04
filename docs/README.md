@@ -12,7 +12,7 @@ This research community consist of
 - [Computer Science Research Institute (**CSRI**)](https://cfwebprod.sandia.gov/cfdocs/CSRI/)
 - [Irish Photonic Integration Centre (**IPIC**)](http://www.ipic.ie/). 
 
-The goal is to explore cutting-edge researches and technologies on software-defined optical networks with full physical layer controls, enabling physical layer programmability through open control systems.
+The goal is to explore cutting-edge research and technologies on software-defined optical networks with full physical layer controls, enabling physical layer programmability through open control systems.
 
 # Ongoing Project:
 
