@@ -1,4 +1,4 @@
-# Current project:
+# Ongoing project:
 
 [transparent Software-Defined Exhchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
 
