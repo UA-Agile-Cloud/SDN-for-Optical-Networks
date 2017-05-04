@@ -16,6 +16,6 @@ The goal is to explore cutting-edge researches and technologies on software-defi
 
 # Ongoing Project:
 
-- [transparent Software-Defined Exhchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
+- [transparent Software-Defined Exchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
 
 ![](image/logo.png)
