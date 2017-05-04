@@ -7,10 +7,10 @@ SDN implementations for optical networks are more complex since they must accoun
 # Research Community
 
 This research community consist of
-- [Center for Integrated Access Networks (CIAN)](http://cian-erc.webhost.uits.arizona.edu/)
-- [Science Foundation Ireland Research Centre for Future Networks and Communications (CONNECT)](https://connectcentre.ie/)
-- [Computer Science Research Institute (CSRI)](https://cfwebprod.sandia.gov/cfdocs/CSRI/)
-- [Irish Photonic Integration Centre (IPIC)](http://www.ipic.ie/). 
+- [Center for Integrated Access Networks (**CIAN**)](http://cian-erc.webhost.uits.arizona.edu/)
+- [Science Foundation Ireland Research Centre for Future Networks and Communications (**CONNECT**)](https://connectcentre.ie/)
+- [Computer Science Research Institute (**CSRI**)](https://cfwebprod.sandia.gov/cfdocs/CSRI/)
+- [Irish Photonic Integration Centre (**IPIC**)](http://www.ipic.ie/). 
 
 The goal is to explore cutting-edge researches and technologies on software-defined optical networks with full physical layer controls, enabling physical layer programmability through open control systems.
 
