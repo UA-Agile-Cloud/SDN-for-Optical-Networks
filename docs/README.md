@@ -14,7 +14,7 @@ This research community consist of
 
 The goal is to explore cutting-edge researches and technologies on software-defined optical networks with full physical layer controls, enabling physical layer programmability through open control systems.
 
-# Ongoing project:
+# Ongoing Project:
 
 - [transparent Software-Defined Exhchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
 
