@@ -18,4 +18,3 @@ The goal is to explore cutting-edge research and technologies on software-define
 
 - [transparent Software-Defined Exchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
 
-![](image/logo.png)
