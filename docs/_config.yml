@@ -3,7 +3,8 @@ title:        SDN for Optical Networks
 tagline:      MAKE OPTICAL NETWORKS AGILE AND INTELLIGENT
 baseurl:      ""
 paginate:     1
-url:          https://github.com/UA-Agile-Cloud/SDN-for-Optical-Networks
+url:          https://ua-agile-cloud.github.io/SDN-for-Optical-Networks/
+root:         /SDN-for-Optical-Networks/
 
 # About/contact
 author:
