@@ -14,6 +14,8 @@ This research community consist of
 
 The goal is to explore cutting-edge research and technologies on software-defined optical networks with full physical layer controls, enabling physical layer programmability through open control systems.
 
+The Center for Integrated Access Networks (CIAN) is an NSF Engineering Research Center funded through grant #EEC-0812072. This work is also supported by grant #DE-SC0015867 through Advanced Scientific Computing Research within the Department of Energy Office of Science.
+
 # Ongoing Project:
 
 - [transparent Software-Defined Exchange (tSDX)](https://ua-agile-cloud.github.io/tSDX/)
