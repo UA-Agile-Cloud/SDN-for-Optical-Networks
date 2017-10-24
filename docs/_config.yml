@@ -1,7 +1,7 @@
 # Setup
 title:        SDN for Optical Networks
 tagline:      MAKE OPTICAL NETWORKS AGILE AND INTELLIGENT
-baseurl:      "https://github.com/UA-Agile-Cloud/SDN-for-Optical-Networks/tree/master/docs"
+baseurl:      ""
 paginate:     1
 url:          https://ua-agile-cloud.github.io/SDN-for-Optical-Networks/
 root:         /SDN-for-Optical-Networks/
